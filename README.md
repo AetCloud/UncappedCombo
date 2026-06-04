@@ -1,8 +1,8 @@
 # UncappedCombo
 
-Trombone Champ mod: removes combo cap display limitation and shows true combo counter.
+Trombone Champ Mod: removes combo cap display limitation and shows true combo counter.
 
-Trombone Champ modding Discord: https://discord.com/invite/Jy36kBwm
+Trombone Champ Modding Discord: https://discord.gg/KVzKRsbetJ
 
 ---
 
