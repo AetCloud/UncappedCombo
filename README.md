@@ -18,7 +18,7 @@ Trombone Champ Modding Discord: https://discord.gg/KVzKRsbetJ
 ## Build from source
 
 1. Create a `lib/` folder in the project directory
-2. Copy these from `TromboneChamp_Data/Managed` and you profile folder:
+2. Copy these from `TromboneChamp_Data/Managed` and your profile folder:
 - 0Harmony.dll
 - BepInEx.dll
 - Assembly-CSharp.dll
