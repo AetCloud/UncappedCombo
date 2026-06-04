@@ -1,6 +1,6 @@
 # UncappedCombo
 
-Trombone Champ Mod: removes combo cap display limitation and shows true combo counter.
+Trombone Champ Mod: Removes combo cap for ScorePopups.
 
 Trombone Champ Modding Discord: https://discord.gg/KVzKRsbetJ
 
