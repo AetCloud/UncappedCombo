@@ -25,7 +25,7 @@ Trombone Champ Modding Discord: https://discord.gg/KVzKRsbetJ
 - UnityEngine.dll
 - UnityEngine.CoreModule.dll
 - UnityEngine.UI.dll
-- UniteEngine.TextRenderingModule.dll
+- UnityEngine.TextRenderingModule.dll
 
 3. Build using:
 
